@@ -87,5 +87,6 @@ int main()
 	for (int i = 0;i<arrSize;i++)
 		std::cout << Array[i] << " ";
 	std::cout << std::endl;
+
 	return 0;
 }
